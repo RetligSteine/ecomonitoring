@@ -1,16 +1,59 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "geo_objects":[
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "Трипільська ТЕС",
+      "pollutant_name": "Речовини у вигляді суспендованих твердих частинок",
+      "emissions": 13720.717,
+      "gdv_standards": {
+        "mass_consumption": 500,
+        "gdv": 50
+      },
+      "activities": ""
+    },
+    {
+      "id": 1,
+      "name": "КП «Броваритепловодоенергія»",
+      "pollutant_name": "Оксид вуглецю",
+      "emissions": 6.28,
+      "gdv_standards": {
+        "mass_consumption": 5000,
+        "gdv": 250
+      },
+      "activities": ""
+    },
+    {
+      "id": 2,
+      "name": "АТ «Укртрансгаз»",
+      "pollutant_name": "Фтор і його сполуки",
+      "emissions": 0.004,
+      "gdv_standards": {
+        "mass_consumption": 50,
+        "gdv": 5
+      },
+      "activities": ""
+    },
+    {
+      "id": 3,
+      "name": "ТОВ «Ясенсвіт»",
+      "pollutant_name": "Кислота мурашина",
+      "emissions": 0.0073,
+      "gdv_standards": {
+        "mass_consumption": 100,
+        "gdv": 20
+      },
+      "activities": ""
+    },
+    {
+      "id": 4,
+      "name": "ПрАТ «Ветропак Гостомельський Склозавод»",
+      "pollutant_name": "Оксиди азоту",
+      "emissions": 683.657,
+      "gdv_standards": {
+        "mass_consumption": 5000,
+        "gdv": 500
+      },
+      "activities": ""
     }
   ]
 }
