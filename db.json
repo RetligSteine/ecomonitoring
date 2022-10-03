@@ -9,7 +9,10 @@
         "mass_consumption": 500,
         "gdv": 50
       },
-      "activities": ""
+      "additional_info": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 1,
@@ -20,7 +23,10 @@
         "mass_consumption": 5000,
         "gdv": 250
       },
-      "activities": ""
+      "additional_info": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 2,
@@ -31,7 +37,10 @@
         "mass_consumption": 50,
         "gdv": 5
       },
-      "activities": ""
+      "additional_info": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 3,
@@ -42,7 +51,10 @@
         "mass_consumption": 100,
         "gdv": 20
       },
-      "activities": ""
+      "additional_info": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 4,
@@ -53,7 +65,10 @@
         "mass_consumption": 5000,
         "gdv": 500
       },
-      "activities": ""
+      "additional_info": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     }
   ]
 }
