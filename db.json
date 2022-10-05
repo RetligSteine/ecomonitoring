@@ -37,7 +37,7 @@
       "id": 3,
       "name": "ТОВ «Ясенсвіт»",
       "pollutant_name": "Кислота мурашина",
-      "emissions": 0.0073,
+      "emissions": 0.0072,
       "gdv_standards": {
         "mass_consumption": 100,
         "gdv": 20
