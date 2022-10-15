@@ -3,61 +3,77 @@
     {
       "id": 0,
       "name": "Трипільська ТЕС",
-      "pollutant_name": "Речовини у вигляді суспендованих твердих частинок",
-      "emissions": 13720.717,
-      "gdv_standards": {
-        "mass_consumption": 500,
-        "gdv": 50
+      "emissions_info": {
+        "pollutant_name": "Речовини у вигляді суспендованих твердих частинок",
+        "emissions": 13720.717,
+        "emissions_type": 1,
+        "tax_rates": 92.37,
+        "tax_amount": 0
       },
-      "overrun": 0
+      "additional_information": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 1,
       "name": "КП «Броваритепловодоенергія»",
-      "pollutant_name": "Оксид вуглецю",
-      "emissions": 6.28,
-      "gdv_standards": {
-        "mass_consumption": 5000,
-        "gdv": 250
+      "emissions_info": {
+        "pollutant_name": "Оксид вуглецю",
+        "emissions": 6.28,
+        "emissions_type": 1,
+        "tax_rates": 92.37,
+        "tax_amount": 0
       },
-      "overrun": 0
+      "additional_information": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 2,
       "name": "АТ «Укртрансгаз»",
-      "pollutant_name": "Фтор і його сполуки",
-      "emissions": 0.004,
-      "gdv_standards": {
-        "mass_consumption": 50,
-        "gdv": 5
+      "emissions_info": {
+        "pollutant_name": "Фтор і його сполуки",
+        "emissions": 0.004,
+        "emissions_type": 1,
+        "tax_rates": 6070.39,
+        "tax_amount": 0
       },
-      "overrun": 0
+      "additional_information": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 3,
       "name": "ТОВ «Ясенсвіт»",
-      "pollutant_name": "Кислота мурашина",
-      "emissions": 0.0072,
-      "gdv_standards": {
-        "mass_consumption": 100,
-        "gdv": 20
+      "emissions_info": {
+        "pollutant_name": "Кислота мурашина",
+        "emissions": 0.0072,
+        "emissions_type": 1,
+        "tax_rates": 138.57,
+        "tax_amount": 0
       },
-      "overrun": 0
+      "additional_information": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     },
     {
       "id": 4,
       "name": "ПрАТ «Ветропак Гостомельський Склозавод»",
-      "pollutant_name": "Оксиди азоту",
-      "emissions": 683.657,
-      "gdv_standards": {
-        "mass_consumption": 5000,
-        "gdv": 500
+      "emissions_info": {
+        "pollutant_name": "Оксиди азоту",
+        "emissions": 683.657,
+        "emissions_type": 1,
+        "tax_rates": 2451.84,
+        "tax_amount": 0
       },
-      "overrun": 0
+      "additional_information": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
     }
-  ],
-  "additional_information": {
-    "year": 2020,
-    "url": "https://mepr.gov.ua/news/37742.html"
-  }
+  ]
 }
