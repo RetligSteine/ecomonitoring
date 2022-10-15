@@ -7,7 +7,7 @@
         "pollutant_name": "Речовини у вигляді суспендованих твердих частинок",
         "emissions": 13720.717,
         "emissions_type": 1,
-        "tax_rates": 92.37,
+        "tax_rates": 92.38,
         "tax_amount": 0
       },
       "additional_information": {
@@ -22,7 +22,7 @@
         "pollutant_name": "Оксид вуглецю",
         "emissions": 6.28,
         "emissions_type": 1,
-        "tax_rates": 92.37,
+        "tax_rates": 92.38,
         "tax_amount": 0
       },
       "additional_information": {
@@ -37,7 +37,7 @@
         "pollutant_name": "Фтор і його сполуки",
         "emissions": 0.004,
         "emissions_type": 1,
-        "tax_rates": 6070.39,
+        "tax_rates": 6070.38,
         "tax_amount": 0
       },
       "additional_information": {
@@ -52,7 +52,7 @@
         "pollutant_name": "Кислота мурашина",
         "emissions": 0.0072,
         "emissions_type": 1,
-        "tax_rates": 138.57,
+        "tax_rates": 138.58,
         "tax_amount": 0
       },
       "additional_information": {
@@ -67,7 +67,7 @@
         "pollutant_name": "Оксиди азоту",
         "emissions": 683.657,
         "emissions_type": 1,
-        "tax_rates": 2451.84,
+        "tax_rates": 2451.85,
         "tax_amount": 0
       },
       "additional_information": {
