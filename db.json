@@ -127,14 +127,16 @@
     {
       "id": 5,
       "name": "ПАТ «Київський картонно – паперовий комбінат»",
-      "emissions_info": {
-        "pollutant_name": "Cкоп (волокно, накопичуване на спорудах очисних)",
-        "emissions": 47397.80,
-        "emissions_type": 3,
-        "position_rate": 3,
-        "tax_rates": 5,
-        "tax_amount": 0
-      },
+      "emissions_info": [
+        {
+          "pollutant_name": "Cкоп (волокно, накопичуване на спорудах очисних)",
+         "emissions": 47397.80,
+          "emissions_type": 3,
+          "position_rate": 3,
+          "tax_rates": 5,
+          "tax_amount": 0
+        }
+      ],
       "additional_information": {
         "year": 2018,
         "url": "https://mepr.gov.ua/news/37742.html"
