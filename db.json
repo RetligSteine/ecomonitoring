@@ -3,13 +3,23 @@
     {
       "id": 0,
       "name": "Трипільська ТЕС",
-      "emissions_info": {
-        "pollutant_name": "Речовини у вигляді суспендованих твердих частинок",
-        "emissions": 13720.717,
-        "emissions_type": 1,
-        "tax_rates": 92.38,
-        "tax_amount": 0
-      },
+      "emissions_info": [
+        {
+          "pollutant_name": "Речовини у вигляді суспендованих твердих частинок",
+          "emissions": 13720.717,
+          "emissions_type": 1,
+          "tax_rates": 92.38,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Сполуки азоту",
+          "emissions": 4290.093,
+          "emissions_type": 2,
+          "water_rate": 1,
+          "tax_rates": 245.84,
+          "tax_amount": 0
+        }
+      ],
       "additional_information": {
         "year": 2020,
         "url": "https://mepr.gov.ua/news/37742.html"
@@ -18,13 +28,23 @@
     {
       "id": 1,
       "name": "КП «Броваритепловодоенергія»",
-      "emissions_info": {
-        "pollutant_name": "Оксид вуглецю",
-        "emissions": 6.28,
-        "emissions_type": 1,
-        "tax_rates": 92.38,
-        "tax_amount": 0
-      },
+      "emissions_info": [
+        {
+          "pollutant_name": "Оксид вуглецю",
+          "emissions": 6.28,
+          "emissions_type": 1,
+          "tax_rates": 92.38,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Сірководень",
+          "emissions": 0.024,
+          "emissions_type": 2,
+          "water_rate": 1,
+          "tax_rates": 7879.65,
+          "tax_amount": 0
+        }
+      ],
       "additional_information": {
         "year": 2020,
         "url": "https://mepr.gov.ua/news/37742.html"
@@ -33,13 +53,23 @@
     {
       "id": 2,
       "name": "АТ «Укртрансгаз»",
-      "emissions_info": {
-        "pollutant_name": "Фтор і його сполуки",
-        "emissions": 0.004,
-        "emissions_type": 1,
-        "tax_rates": 6070.38,
-        "tax_amount": 0
-      },
+      "emissions_info": [
+        {
+          "pollutant_name": "Фтор і його сполуки",
+          "emissions": 0.004,
+          "emissions_type": 1,
+          "tax_rates": 6070.38,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Метан",
+          "emissions": 426.146,
+          "emissions_type": 2,
+          "water_rate": 1,
+          "tax_rates": 138.57,
+          "tax_amount": 0
+        }
+      ],
       "additional_information": {
         "year": 2020,
         "url": "https://mepr.gov.ua/news/37742.html"
@@ -48,13 +78,23 @@
     {
       "id": 3,
       "name": "ТОВ «Ясенсвіт»",
-      "emissions_info": {
-        "pollutant_name": "Кислота мурашина",
-        "emissions": 0.0072,
-        "emissions_type": 1,
-        "tax_rates": 138.58,
-        "tax_amount": 0
-      },
+      "emissions_info": [
+        {
+          "pollutant_name": "Кислота мурашина",
+          "emissions": 0.0072,
+          "emissions_type": 1,
+          "tax_rates": 138.58,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Аміак",
+          "emissions": 18.2584,
+          "emissions_type": 2,
+          "water_rate": 1,
+          "tax_rates": 459.85,
+          "tax_amount": 0
+        }
+      ],
       "additional_information": {
         "year": 2020,
         "url": "https://mepr.gov.ua/news/37742.html"
@@ -63,17 +103,41 @@
     {
       "id": 4,
       "name": "ПрАТ «Ветропак Гостомельський Склозавод»",
+      "emissions_info": [
+        {
+          "pollutant_name": "Оксиди азоту",
+          "emissions": 683.657,
+          "emissions_type": 1,
+          "tax_rates": 2451.85,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Свинець та його сполуки",
+          "emissions": 0.015,
+          "emissions_type": 2,
+          "water_rate": 1,
+          "tax_rates": 103931.28,
+          "tax_amount": 0}
+      ],
+      "additional_information": {
+        "year": 2020,
+        "url": "https://mepr.gov.ua/news/37742.html"
+      }
+    },
+    {
+      "id": 5,
+      "name": "ПАТ «Київський картонно – паперовий комбінат»",
       "emissions_info": {
-        "pollutant_name": "Оксиди азоту",
-        "emissions": 683.657,
-        "emissions_type": 1,
-        "tax_rates": 2451.85,
+        "pollutant_name": "Cкоп (волокно, накопичуване на спорудах очисних)",
+        "emissions": 47397.80,
+        "emissions_type": 3,
+        "position_rate": 3,
+        "tax_rates": 5,
         "tax_amount": 0
       },
       "additional_information": {
         "year": 2020,
         "url": "https://mepr.gov.ua/news/37742.html"
-      }
-    }
+      }}
   ]
 }
