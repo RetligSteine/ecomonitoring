@@ -141,6 +141,79 @@
       "additional_information": {
         "year": 2018,
         "url": "https://mepr.gov.ua/news/37742.html"
-      }}
+      }
+    },
+    {
+      "id": 6,
+      "name": "Запорізька АЕС",
+      "emissions_info": [
+        {
+          "pollutant_name": "Лампи люмінесцентні та відходи, які містять ртуть",
+          "emissions": 2494,
+          "emissions_type": 4,
+          "tax_rates": 159600,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Шлам хімводоочистки",
+          "emissions": 132696.41,
+          "emissions_type": 5,
+          "tax_rates": 11807.40,
+          "tax_amount": 0
+        }
+      ],
+      "additional_information": {
+        "year": 2019,
+        "url": "https://zakon.rada.gov.ua/laws/show/2755-17#Text"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Рівненська  АЕС",
+      "emissions_info": [
+        {
+          "pollutant_name": "Брухт кольорових металів дрібний інший",
+          "emissions": 10080,
+          "emissions_type": 4,
+          "tax_rates": 79800,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Масла та мастила моторні, трансмісійні інші зіпсовані або відпрацьовані",
+          "emissions": 4309.23,
+          "emissions_type": 5,
+          "tax_rates": 11807.40,
+          "tax_amount": 0
+        }
+      ],
+      "additional_information": {
+        "year": 2019,
+        "url": "https://zakon.rada.gov.ua/laws/show/2755-17#Text"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Хмельницька  АЕС",
+      "emissions_info": [
+        {
+          "pollutant_name": "Відпрацьований вугільний сорбент",
+          "emissions": 68.9,
+          "emissions_type": 4,
+          "tax_rates": 159600,
+          "tax_amount": 0
+        },
+        {
+          "pollutant_name": "Шлам, що утворюється від освітлення води",
+          "emissions": 5754.957,
+          "emissions_type": 5,
+          "tax_rates": 11807.40,
+          "tax_amount": 0
+        }
+      ],
+      "additional_information": {
+        "year": 2019,
+        "url": "https://zakon.rada.gov.ua/laws/show/2755-17#Text"
+      }
+    }
   ]
 }
