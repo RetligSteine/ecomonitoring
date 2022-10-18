@@ -12,11 +12,11 @@
           "tax_amount": 0
         },
         {
-          "pollutant_name": "Сполуки азоту",
+          "pollutant_name": "Азот амонійний",
           "emissions": 4290.093,
           "emissions_type": 2,
           "water_rate": 1,
-          "tax_rates": 245.84,
+          "tax_rates": 1610.48,
           "tax_amount": 0
         }
       ],
@@ -37,11 +37,11 @@
           "tax_amount": 0
         },
         {
-          "pollutant_name": "Сірководень",
-          "emissions": 0.024,
+          "pollutant_name": "Хлориди",
+          "emissions": 1.912,
           "emissions_type": 2,
           "water_rate": 1,
-          "tax_rates": 7879.65,
+          "tax_rates": 46.19,
           "tax_amount": 0
         }
       ],
@@ -62,11 +62,11 @@
           "tax_amount": 0
         },
         {
-          "pollutant_name": "Метан",
-          "emissions": 426.146,
+          "pollutant_name": "Сульфати",
+          "emissions": 0.653,
           "emissions_type": 2,
           "water_rate": 1,
-          "tax_rates": 138.57,
+          "tax_rates": 46.19,
           "tax_amount": 0
         }
       ],
@@ -87,11 +87,11 @@
           "tax_amount": 0
         },
         {
-          "pollutant_name": "Аміак",
-          "emissions": 18.2584,
+          "pollutant_name": "Сульфатна кислота",
+          "emissions": 0.0002,
           "emissions_type": 2,
           "water_rate": 1,
-          "tax_rates": 459.85,
+          "tax_rates": 46.19,
           "tax_amount": 0
         }
       ],
@@ -112,12 +112,13 @@
           "tax_amount": 0
         },
         {
-          "pollutant_name": "Свинець та його сполуки",
+          "pollutant_name": "Нітрити",
           "emissions": 0.015,
           "emissions_type": 2,
           "water_rate": 1,
-          "tax_rates": 103931.28,
-          "tax_amount": 0}
+          "tax_rates": 7909.77,
+          "tax_amount": 0
+        }
       ],
       "additional_information": {
         "year": 2020,
