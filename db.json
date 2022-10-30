@@ -1,148 +1,209 @@
 {
-  "geo_objects":[
+  "regions":[
     {
       "id": 0,
-      "name": "Трипільська ТЕС",
+      "name": "м. Бровари",
       "emissions_info": [
         {
-          "pollutant_name": "Речовини у вигляді суспендованих твердих частинок",
-          "emissions": 13720.717,
-          "emissions_type": 1,
-          "tax_rates": 92.38,
-          "tax_amount": 0
+          "pollutant_name": "Свинець",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00002,
+          "Ch": 0.00002,
+
+          "HQ": -1,
+          "AC": 0.00002,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 0.042,
+
+          "PCR": -1
         },
         {
-          "pollutant_name": "Азот амонійний",
-          "emissions": 4290.093,
-          "emissions_type": 2,
-          "water_rate": 1,
-          "tax_rates": 1610.48,
-          "tax_amount": 0
+          "pollutant_name": "Кадмій",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.000002,
+          "Ch": 0.000002,
+
+          "HQ": -1,
+          "AC": 0.000002,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 6.3,
+
+          "PCR": -1
+        },
+        {
+          "pollutant_name": "Хром",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00002,
+          "Ch": 0.00002,
+
+          "HQ": -1,
+          "AC": 0.00002,
+          "RfC": 0.0001,
+
+          "CR": -1,
+          "SF": 42,
+
+          "PCR": -1
         }
       ],
+      "POP": 108349,
+      "HI": -1,
       "additional_information": {
         "year": 2020,
-        "url": "https://mepr.gov.ua/news/37742.html"
+        "url": "https://mepr.gov.ua/files/docs/EkoMonitoring/2021/regional/Регіональна%20доповідь%20Київська%20обл%202020%20рік.pdf"
       }
     },
     {
       "id": 1,
-      "name": "КП «Броваритепловодоенергія»",
+      "name": "м. Українка",
       "emissions_info": [
         {
-          "pollutant_name": "Оксид вуглецю",
-          "emissions": 6.28,
-          "emissions_type": 1,
-          "tax_rates": 92.38,
-          "tax_amount": 0
+          "pollutant_name": "Свинець",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00003,
+          "Ch": 0.00003,
+
+          "HQ": -1,
+          "AC": 0.00003,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 0.042,
+
+          "PCR": -1
         },
         {
-          "pollutant_name": "Хлориди",
-          "emissions": 1.912,
-          "emissions_type": 2,
-          "water_rate": 1,
-          "tax_rates": 46.19,
-          "tax_amount": 0
+          "pollutant_name": "Кадмій",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00001,
+          "Ch": 0.00001,
+
+          "HQ": -1,
+          "AC": 0.00001,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 6.3,
+
+          "PCR": -1
         }
       ],
+      "POP": 14163,
+      "HI": -1,
       "additional_information": {
         "year": 2020,
-        "url": "https://mepr.gov.ua/news/37742.html"
+        "url": "https://mepr.gov.ua/files/docs/EkoMonitoring/2021/regional/Регіональна%20доповідь%20Київська%20обл%202020%20рік.pdf"
       }
     },
     {
       "id": 2,
-      "name": "АТ «Укртрансгаз»",
+      "name": "м. Обухів",
       "emissions_info": [
         {
-          "pollutant_name": "Фтор і його сполуки",
-          "emissions": 0.004,
-          "emissions_type": 1,
-          "tax_rates": 6070.38,
-          "tax_amount": 0
+          "pollutant_name": "Свинець",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00002,
+          "Ch": 0.00002,
+
+          "HQ": -1,
+          "AC": 0.00002,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 0.042,
+
+          "PCR": -1
         },
         {
-          "pollutant_name": "Сульфати",
-          "emissions": 0.653,
-          "emissions_type": 2,
-          "water_rate": 1,
-          "tax_rates": 46.19,
-          "tax_amount": 0
+          "pollutant_name": "Кадмій",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.000003,
+          "Ch": 0.000003,
+
+          "HQ": -1,
+          "AC": 0.000003,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 6.3,
+
+          "PCR": -1
         }
       ],
+      "POP": 33419,
+      "HI": -1,
       "additional_information": {
         "year": 2020,
-        "url": "https://mepr.gov.ua/news/37742.html"
-      }
-    },
-    {
-      "id": 3,
-      "name": "ТОВ «Ясенсвіт»",
-      "emissions_info": [
-        {
-          "pollutant_name": "Кислота мурашина",
-          "emissions": 0.0072,
-          "emissions_type": 1,
-          "tax_rates": 138.58,
-          "tax_amount": 0
-        },
-        {
-          "pollutant_name": "Сульфатна кислота",
-          "emissions": 0.0002,
-          "emissions_type": 2,
-          "water_rate": 1,
-          "tax_rates": 46.19,
-          "tax_amount": 0
-        }
-      ],
-      "additional_information": {
-        "year": 2020,
-        "url": "https://mepr.gov.ua/news/37742.html"
-      }
-    },
-    {
-      "id": 4,
-      "name": "ПрАТ «Ветропак Гостомельський Склозавод»",
-      "emissions_info": [
-        {
-          "pollutant_name": "Оксиди азоту",
-          "emissions": 683.657,
-          "emissions_type": 1,
-          "tax_rates": 2451.85,
-          "tax_amount": 0
-        },
-        {
-          "pollutant_name": "Нітрити",
-          "emissions": 0.015,
-          "emissions_type": 2,
-          "water_rate": 1,
-          "tax_rates": 7909.77,
-          "tax_amount": 0
-        }
-      ],
-      "additional_information": {
-        "year": 2020,
-        "url": "https://mepr.gov.ua/news/37742.html"
-      }
-    },
-    {
-      "id": 5,
-      "name": "ПАТ «Київський картонно – паперовий комбінат»",
-      "emissions_info": [
-        {
-          "pollutant_name": "Cкоп (волокно, накопичуване на спорудах очисних)",
-          "emissions": 47397.80,
-          "emissions_type": 3,
-          "position_rate": 3,
-          "water_atmosphere_rate": 1,
-          "tax_rates": 5,
-          "tax_amount": 0
-        }
-      ],
-      "additional_information": {
-        "year": 2018,
-        "url": "https://mepr.gov.ua/news/37742.html"
+        "url": "https://mepr.gov.ua/files/docs/EkoMonitoring/2021/regional/Регіональна%20доповідь%20Київська%20обл%202020%20рік.pdf"
       }
     }
-  ]
+  ],
+  "pollutants_coefficients_info": "https://zakon.rada.gov.ua/rada/show/v0184282-07#Text"
 }
