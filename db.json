@@ -83,7 +83,126 @@
         "year": 2020,
         "url": "https://cutt.ly/ONmnLnW"
       }
+    },
+    {
+      "id": 1,
+      "name": "м. Українка",
+      "emissions_info": [
+        {
+          "pollutant_name": "Свинець",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00003,
+          "Ch": 0.00003,
+
+          "HQ": -1,
+          "AC": 0.00003,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 0.042,
+
+          "PCR": -1
+        },
+        {
+          "pollutant_name": "Кадмій",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00001,
+          "Ch": 0.00001,
+
+          "HQ": -1,
+          "AC": 0.00001,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 6.3,
+
+          "PCR": -1
+        }
+      ],
+      "POP": 14163,
+      "HI": -1,
+      "additional_information": {
+        "year": 2020,
+        "url": "https://cutt.ly/ONmnLnW"
+      }
+    },
+    {
+      "id": 2,
+      "name": "м. Обухів",
+      "emissions_info": [
+        {
+          "pollutant_name": "Свинець",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.00002,
+          "Ch": 0.00002,
+
+          "HQ": -1,
+          "AC": 0.00002,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 0.042,
+
+          "PCR": -1
+        },
+        {
+          "pollutant_name": "Кадмій",
+
+          "LADD": -1,
+          "Tout": 8,
+          "Vout": 1.4,
+          "Tin": 16,
+          "Vin": 0.63,
+          "BW": 70,
+          "AT": 70,
+          "EF": 365,
+          "ED": 40,
+          "Ca": 0.000003,
+          "Ch": 0.000003,
+
+          "HQ": -1,
+          "AC": 0.000003,
+          "RfC": 0.00015,
+
+          "CR": -1,
+          "SF": 6.3,
+
+          "PCR": -1
+        }
+      ],
+      "POP": 33419,
+      "HI": -1,
+      "additional_information": {
+        "year": 2020,
+        "url": "https://cutt.ly/ONmnLnW"
+      }
     }
-  ],
-  "pollutants_coefficients_info": "https://zakon.rada.gov.ua/rada/show/v0184282-07#Text"
+  ]
 }
