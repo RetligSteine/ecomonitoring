@@ -1,208 +1,319 @@
 {
-  "areas":[
+  "rivers": [
     {
       "id": 0,
-      "name": "м. Бровари",
-      "emissions_info": [
+      "name": "р. Прип'ять, 60 км, с. Довляди, кордон з Білоруссю",
+      "risks": [
         {
-          "pollutant_name": "Свинець",
-
-          "LADD": null,
-          "Tout": 8,
-          "Vout": 1.4,
-          "Tin": 16,
-          "Vin": 0.63,
-          "BW": 70,
-          "AT": 70,
-          "EF": 365,
-          "ED": 40,
-          "Ca": 0.00002,
-          "Ch": 0.00002,
-
-          "HQ": null,
-          "AC": 0.00002,
-          "RfC": 0.00015,
-
-          "CR": null,
-          "SF": 0.042,
-
-          "PCR": null
+          "type": "A",
+          "pH": 7.5,
+          "Prob": -3.5,
+          "risk": 0.001
         },
         {
-          "pollutant_name": "Кадмій",
-
-          "LADD": null,
-          "Tout": 8,
-          "Vout": 1.4,
-          "Tin": 16,
-          "Vin": 0.63,
-          "BW": 70,
-          "AT": 70,
-          "EF": 365,
-          "ED": 40,
-          "Ca": 0.000002,
-          "Ch": 0.000002,
-
-          "HQ": null,
-          "AC": 0.000002,
-          "RfC": 0.00015,
-
-          "CR": null,
-          "SF": 6.3,
-
-          "PCR": null
+          "type": "B",
+          "F": 20,
+          "C": 19,
+          "Prob": -2.114,
+          "risk": 0.017
         },
         {
-          "pollutant_name": "Хром",
-
-          "LADD": null,
-          "Tout": 8,
-          "Vout": 1.4,
-          "Tin": 16,
-          "Vin": 0.63,
-          "BW": 70,
-          "AT": 70,
-          "EF": 365,
-          "ED": 40,
-          "Ca": 0.00002,
-          "Ch": 0.00002,
-
-          "HQ": null,
-          "AC": 0.00002,
-          "RfC": 0.0001,
-
-          "CR": null,
-          "SF": 42,
-
-          "PCR": null
+          "type": "C",
+          "emissions": [
+            {
+              "emission_name": "Сульфати",
+              "OSF": 0.7,
+              "GDK": 0.04,
+              "K3": 100,
+              "CW": 65.5,
+              "IR": 1.2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            },
+            {
+              "emission_name": "Оксид міді",
+              "OSF": 0.87,
+              "GDK": 0.005,
+              "K3": 10,
+              "CW": 0.02,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            },
+            {
+              "emission_name": "Марганець і його сполуки",
+              "OSF": 0.84,
+              "GDK": 0.01,
+              "K3": 10,
+              "CW": 0.06,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            }
+          ]
+        },
+        {
+          "type": "D",
+          "X1": 3.2,
+          "X2": 49,
+          "X3": 0.02,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emissions": [
+            {
+              "emission_name": "Сульфати",
+              "OSF": 0.7,
+              "GDK": 0.04,
+              "K3": 100,
+              "C": 65.5,
+              "risk": null
+            },
+            {
+              "emission_name": "Оксид міді",
+              "OSF": 0.87,
+              "GDK": 0.005,
+              "K3": 10,
+              "C": 0.2,
+              "risk": null
+            },
+            {
+              "emission_name": "Марганець і його сполуки",
+              "OSF": 0.84,
+              "GDK": 0.01,
+              "K3": 10,
+              "C": 0.06,
+              "risk": null
+            }
+          ]
         }
-      ],
-      "POP": 108349,
-      "HI": null,
-      "additional_information": {
-        "year": 2020,
-        "url": "https://cutt.ly/ONmnLnW"
-      }
+      ]
     },
     {
       "id": 1,
-      "name": "м. Українка",
-      "emissions_info": [
+      "name": "р. Дніпро, 897 км, м.Вишгород, н/б Київської ГЕС, питний водозабір м.Києва",
+      "risks": [
         {
-          "pollutant_name": "Свинець",
-
-          "LADD": null,
-          "Tout": 8,
-          "Vout": 1.4,
-          "Tin": 16,
-          "Vin": 0.63,
-          "BW": 70,
-          "AT": 70,
-          "EF": 365,
-          "ED": 40,
-          "Ca": 0.00003,
-          "Ch": 0.00003,
-
-          "HQ": null,
-          "AC": 0.00003,
-          "RfC": 0.00015,
-
-          "CR": null,
-          "SF": 0.042,
-
-          "PCR": null
+          "type": "A",
+          "pH": 7.1,
+          "Prob": -3.9,
+          "risk": 0.0001
         },
         {
-          "pollutant_name": "Кадмій",
-
-          "LADD": null,
-          "Tout": 8,
-          "Vout": 1.4,
-          "Tin": 16,
-          "Vin": 0.63,
-          "BW": 70,
-          "AT": 70,
-          "EF": 365,
-          "ED": 40,
-          "Ca": 0.00001,
-          "Ch": 0.00001,
-
-          "HQ": null,
-          "AC": 0.00001,
-          "RfC": 0.00015,
-
-          "CR": null,
-          "SF": 6.3,
-
-          "PCR": null
+          "type": "B",
+          "F": 20,
+          "C": 17,
+          "Prob": -2.242,
+          "risk": 0.015
+        },
+        {
+          "type": "C",
+          "emissions": [
+            {
+              "emission_name": "Фосфати",
+              "OSF": 0.59,
+              "GDK": 2.0,
+              "K3": 100,
+              "CW": 0.19,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            },
+            {
+              "emission_name": "Цинк",
+              "OSF": 0.93,
+              "GDK": 0.01,
+              "K3": 10,
+              "CW": 0.005,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            },
+            {
+              "emission_name": "Залізо",
+              "OSF": 0.84,
+              "GDK": 0.04,
+              "K3": 10,
+              "CW": 0.21,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            }
+          ]
+        },
+        {
+          "type": "D",
+          "X1": 2.7,
+          "X2": 43,
+          "X3": 0.01,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emissions": [
+            {
+              "emission_name": "Фосфати",
+              "OSF": 0.59,
+              "GDK": 2.0,
+              "K3": 100,
+              "C": 0.19,
+              "risk": null
+            },
+            {
+              "emission_name": "Цинк",
+              "OSF": 0.93,
+              "GDK": 0.01,
+              "K3": 10,
+              "C": 0.005,
+              "risk": null
+            },
+            {
+              "emission_name": "Залізо",
+              "OSF": 0.84,
+              "GDK": 0.04,
+              "K3": 10,
+              "C": 0.21,
+              "risk": null
+            }
+          ]
         }
-      ],
-      "POP": 14163,
-      "HI": null,
-      "additional_information": {
-        "year": 2020,
-        "url": "https://cutt.ly/ONmnLnW"
-      }
+      ]
     },
     {
       "id": 2,
-      "name": "м. Обухів",
-      "emissions_info": [
+      "name": "р. Десна, 3 км, м.Київ, Деснянський питний в/з м.Києва",
+      "risks": [
         {
-          "pollutant_name": "Свинець",
-
-          "LADD": null,
-          "Tout": 8,
-          "Vout": 1.4,
-          "Tin": 16,
-          "Vin": 0.63,
-          "BW": 70,
-          "AT": 70,
-          "EF": 365,
-          "ED": 40,
-          "Ca": 0.00002,
-          "Ch": 0.00002,
-
-          "HQ": null,
-          "AC": 0.00002,
-          "RfC": 0.00015,
-
-          "CR": null,
-          "SF": 0.042,
-
-          "PCR": null
+          "type": "A",
+          "pH": 7.2,
+          "Prob": -3.8,
+          "risk": 0.0001
         },
         {
-          "pollutant_name": "Кадмій",
-
-          "LADD": null,
-          "Tout": 8,
-          "Vout": 1.4,
-          "Tin": 16,
-          "Vin": 0.63,
-          "BW": 70,
-          "AT": 70,
-          "EF": 365,
-          "ED": 40,
-          "Ca": 0.000003,
-          "Ch": 0.000003,
-
-          "HQ": null,
-          "AC": 0.000003,
-          "RfC": 0.00015,
-
-          "CR": null,
-          "SF": 6.3,
-
-          "PCR": null
+          "type": "B",
+          "F": 20,
+          "C": 16,
+          "Prob": -2.306,
+          "risk": 0.013
+        },
+        {
+          "type": "C",
+          "emissions": [
+            {
+              "emission_name": "Мідь",
+              "OSF": 0.78,
+              "GDK": 0.003,
+              "K3": 10,
+              "CW": 0.02,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            },
+            {
+              "emission_name": "Марганець",
+              "OSF": 0.81,
+              "GDK": 0.01,
+              "K3": 10,
+              "CW": 0.06,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            },
+            {
+              "emission_name": "Нафтопродукти",
+              "OSF": 0.73,
+              "GDK": 5.0,
+              "K3": 100,
+              "CW": 0.05,
+              "IR": 2,
+              "EF": 365,
+              "ED": 70,
+              "BW": 70,
+              "AT": 25.550,
+              "Clim": null,
+              "LADD": null,
+              "risk": null
+            }
+          ]
+        },
+        {
+          "type": "D",
+          "X1": 2.2,
+          "X2": 39,
+          "X3": 0.01,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emissions": [
+            {
+              "emission_name": "Мідь",
+              "OSF": 0.78,
+              "GDK": 0.003,
+              "K3": 10,
+              "C": 0.02,
+              "risk": null
+            },
+            {
+              "emission_name": "Марганець",
+              "OSF": 0.81,
+              "GDK": 0.01,
+              "K3": 10,
+              "C": 0.06,
+              "risk": null
+            },
+            {
+              "emission_name": "Нафтопродукти",
+              "OSF": 0.73,
+              "GDK": 5.0,
+              "K3": 100,
+              "C": 0.05,
+              "risk": null
+            }
+          ]
         }
-      ],
-      "POP": 33420,
-      "HI": null,
-      "additional_information": {
-        "year": 2020,
-        "url": "https://cutt.ly/ONmnLnW"
-      }
+      ]
     }
   ]
 }
