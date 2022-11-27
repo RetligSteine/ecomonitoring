@@ -19,53 +19,51 @@
         },
         {
           "type": "C",
-          "emissions": [
-            {
-              "emission_name": "Сульфати",
-              "OSF": 0.7,
-              "GDK": 0.04,
-              "K3": 100,
-              "CW": 65.5,
-              "IR": 1.2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            },
-            {
-              "emission_name": "Оксид міді",
-              "OSF": 0.87,
-              "GDK": 0.005,
-              "K3": 10,
-              "CW": 0.02,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            },
-            {
-              "emission_name": "Марганець і його сполуки",
-              "OSF": 0.84,
-              "GDK": 0.01,
-              "K3": 10,
-              "CW": 0.06,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            }
-          ]
+          "emission_name": "Сульфати",
+          "OSF": 0.7,
+          "GDK": 0.04,
+          "K3": 100,
+          "CW": 65.5,
+          "IR": 1.2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
+        },
+        {
+          "type": "C",
+          "emission_name": "Оксид міді",
+          "OSF": 0.87,
+          "GDK": 0.005,
+          "K3": 10,
+          "CW": 0.02,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
+        },
+        {
+          "type": "C",
+          "emission_name": "Марганець і його сполуки",
+          "OSF": 0.84,
+          "GDK": 0.01,
+          "K3": 10,
+          "CW": 0.06,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
         },
         {
           "type": "D",
@@ -76,32 +74,30 @@
         },
         {
           "type": "E",
-          "emissions": [
-            {
-              "emission_name": "Сульфати",
-              "OSF": 0.7,
-              "GDK": 0.04,
-              "K3": 100,
-              "C": 65.5,
-              "risk": null
-            },
-            {
-              "emission_name": "Оксид міді",
-              "OSF": 0.87,
-              "GDK": 0.005,
-              "K3": 10,
-              "C": 0.2,
-              "risk": null
-            },
-            {
-              "emission_name": "Марганець і його сполуки",
-              "OSF": 0.84,
-              "GDK": 0.01,
-              "K3": 10,
-              "C": 0.06,
-              "risk": null
-            }
-          ]
+          "emission_name": "Сульфати",
+          "OSF": 0.7,
+          "GDK": 0.04,
+          "K3": 100,
+          "C": 65.5,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emission_name": "Оксид міді",
+          "OSF": 0.87,
+          "GDK": 0.005,
+          "K3": 10,
+          "C": 0.2,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emission_name": "Марганець і його сполуки",
+          "OSF": 0.84,
+          "GDK": 0.01,
+          "K3": 10,
+          "C": 0.06,
+          "risk": null
         }
       ]
     },
@@ -124,53 +120,51 @@
         },
         {
           "type": "C",
-          "emissions": [
-            {
-              "emission_name": "Фосфати",
-              "OSF": 0.59,
-              "GDK": 2.0,
-              "K3": 100,
-              "CW": 0.19,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            },
-            {
-              "emission_name": "Цинк",
-              "OSF": 0.93,
-              "GDK": 0.01,
-              "K3": 10,
-              "CW": 0.005,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            },
-            {
-              "emission_name": "Залізо",
-              "OSF": 0.84,
-              "GDK": 0.04,
-              "K3": 10,
-              "CW": 0.21,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            }
-          ]
+          "emission_name": "Фосфати",
+          "OSF": 0.59,
+          "GDK": 2.0,
+          "K3": 100,
+          "CW": 0.19,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
+        },
+        {
+          "type": "C",
+          "emission_name": "Цинк",
+          "OSF": 0.93,
+          "GDK": 0.01,
+          "K3": 10,
+          "CW": 0.005,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
+        },
+        {
+          "type": "C",
+          "emission_name": "Залізо",
+          "OSF": 0.84,
+          "GDK": 0.04,
+          "K3": 10,
+          "CW": 0.21,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
         },
         {
           "type": "D",
@@ -181,32 +175,30 @@
         },
         {
           "type": "E",
-          "emissions": [
-            {
-              "emission_name": "Фосфати",
-              "OSF": 0.59,
-              "GDK": 2.0,
-              "K3": 100,
-              "C": 0.19,
-              "risk": null
-            },
-            {
-              "emission_name": "Цинк",
-              "OSF": 0.93,
-              "GDK": 0.01,
-              "K3": 10,
-              "C": 0.005,
-              "risk": null
-            },
-            {
-              "emission_name": "Залізо",
-              "OSF": 0.84,
-              "GDK": 0.04,
-              "K3": 10,
-              "C": 0.21,
-              "risk": null
-            }
-          ]
+          "emission_name": "Фосфати",
+          "OSF": 0.59,
+          "GDK": 2.0,
+          "K3": 100,
+          "C": 0.19,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emission_name": "Цинк",
+          "OSF": 0.93,
+          "GDK": 0.01,
+          "K3": 10,
+          "C": 0.005,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emission_name": "Залізо",
+          "OSF": 0.84,
+          "GDK": 0.04,
+          "K3": 10,
+          "C": 0.21,
+          "risk": null
         }
       ]
     },
@@ -229,53 +221,51 @@
         },
         {
           "type": "C",
-          "emissions": [
-            {
-              "emission_name": "Мідь",
-              "OSF": 0.78,
-              "GDK": 0.003,
-              "K3": 10,
-              "CW": 0.02,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            },
-            {
-              "emission_name": "Марганець",
-              "OSF": 0.81,
-              "GDK": 0.01,
-              "K3": 10,
-              "CW": 0.06,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            },
-            {
-              "emission_name": "Нафтопродукти",
-              "OSF": 0.73,
-              "GDK": 5.0,
-              "K3": 100,
-              "CW": 0.05,
-              "IR": 2,
-              "EF": 365,
-              "ED": 70,
-              "BW": 70,
-              "AT": 25.550,
-              "Clim": null,
-              "LADD": null,
-              "risk": null
-            }
-          ]
+          "emission_name": "Мідь",
+          "OSF": 0.78,
+          "GDK": 0.003,
+          "K3": 10,
+          "CW": 0.02,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
+        },
+        {
+          "type": "C",
+          "emission_name": "Марганець",
+          "OSF": 0.81,
+          "GDK": 0.01,
+          "K3": 10,
+          "CW": 0.06,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
+        },
+        {
+          "type": "C",
+          "emission_name": "Нафтопродукти",
+          "OSF": 0.73,
+          "GDK": 5.0,
+          "K3": 100,
+          "CW": 0.05,
+          "IR": 2,
+          "EF": 365,
+          "ED": 70,
+          "BW": 70,
+          "AT": 25.550,
+          "Clim": null,
+          "LADD": null,
+          "risk": null
         },
         {
           "type": "D",
@@ -286,32 +276,30 @@
         },
         {
           "type": "E",
-          "emissions": [
-            {
-              "emission_name": "Мідь",
-              "OSF": 0.78,
-              "GDK": 0.003,
-              "K3": 10,
-              "C": 0.02,
-              "risk": null
-            },
-            {
-              "emission_name": "Марганець",
-              "OSF": 0.81,
-              "GDK": 0.01,
-              "K3": 10,
-              "C": 0.06,
-              "risk": null
-            },
-            {
-              "emission_name": "Нафтопродукти",
-              "OSF": 0.73,
-              "GDK": 5.0,
-              "K3": 100,
-              "C": 0.05,
-              "risk": null
-            }
-          ]
+          "emission_name": "Мідь",
+          "OSF": 0.78,
+          "GDK": 0.003,
+          "K3": 10,
+          "C": 0.02,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emission_name": "Марганець",
+          "OSF": 0.81,
+          "GDK": 0.01,
+          "K3": 10,
+          "C": 0.06,
+          "risk": null
+        },
+        {
+          "type": "E",
+          "emission_name": "Нафтопродукти",
+          "OSF": 0.73,
+          "GDK": 5.0,
+          "K3": 100,
+          "C": 0.05,
+          "risk": null
         }
       ]
     }
