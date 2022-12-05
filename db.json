@@ -1,307 +1,120 @@
 {
-  "rivers": [
+  "objects": [
     {
       "id": 0,
-      "name": "р. Прип'ять, 60 км, с. Довляди, кордон з Білоруссю",
-      "risks": [
+      "name": "ТОВ <<ЧЕРНІГІВАГРОШЛЯХБУД>>",
+      "losses": [
         {
-          "type": "A",
-          "pH": 7.5,
-          "Prob": -3.5,
-          "risk": null
+          "name": "Хром та його сполуки в перерахунку на триоксид хрому",
+
+          "qm": 0.00000122,
+          "qnorm": 0.006944,
+          "T": 8760,
+
+          "Z": null,
+          "m": null,
+          "P": 17500,
+          "A": null,
+          "GDK": 5,
+          "Kt": null,
+          "Knas": 1.35,
+          "Kf": 1.25,
+          "Kz": 1
         },
         {
-          "type": "B",
-          "F": 20,
-          "C": 19,
-          "Prob": -2.114,
-          "risk": null
+          "name": "Вуглецю оксид",
+
+          "qm": 33.287623,
+          "qnorm": 1.388,
+          "T": 8760,
+
+          "Z": null,
+          "m": null,
+          "P": 17500,
+          "A": null,
+          "GDK": 250,
+          "Kt": null,
+          "Knas": 1.35,
+          "Kf": 1.25,
+          "Kz": 1
         },
         {
-          "type": "C",
-          "emission_name": "Сульфати",
-          "OSF": 0.7,
-          "GDK": 0.04,
-          "K3": 100,
-          "CW": 65.5,
-          "IR": 1.2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
+          "name": "Фенол",
+
+          "qm": 0.02916622,
+          "qnorm": 0.0277,
+          "T": 8760,
+
+          "Z": null,
+          "m": null,
+          "P": 17500,
+          "A": null,
+          "GDK": 20,
+          "Kt": null,
+          "Knas": 1.35,
+          "Kf": 1.25,
+          "Kz": 1
         },
         {
-          "type": "C",
-          "emission_name": "Оксид міді",
-          "OSF": 0.87,
-          "GDK": 0.005,
-          "K3": 10,
-          "CW": 0.02,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
+          "name": "Азоту діоксид",
+
+          "qm": 1.49404,
+          "qnorm": 1.388888,
+          "T": 8760,
+
+          "Z": null,
+          "m": null,
+          "P": 17500,
+          "A": null,
+          "GDK": 500,
+          "Kt": null,
+          "Knas": 1.35,
+          "Kf": 1.25,
+          "Kz": 1
         },
         {
-          "type": "C",
-          "emission_name": "Марганець і його сполуки",
-          "OSF": 0.84,
-          "GDK": 0.01,
-          "K3": 10,
-          "CW": 0.06,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
-        },
-        {
-          "type": "D",
-          "X1": 3.2,
-          "X2": 49,
-          "X3": 0.02,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Сульфати",
-          "OSF": 0.7,
-          "GDK": 0.04,
-          "K3": 100,
-          "C": 65.5,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Оксид міді",
-          "OSF": 0.87,
-          "GDK": 0.005,
-          "K3": 10,
-          "C": 0.2,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Марганець і його сполуки",
-          "OSF": 0.84,
-          "GDK": 0.01,
-          "K3": 10,
-          "C": 0.06,
-          "risk": null
+          "name": "Речовини у вигляді суспендованих твердих частинок недиференційованих за складом",
+
+          "qm": 2.55835,
+          "qnorm":  0.138888,
+          "T": 8760,
+
+          "Z": null,
+          "m": null,
+          "P": 17500,
+          "A": null,
+          "GDK": 50,
+          "Kt": null,
+          "Knas": 1.35,
+          "Kf": 1.25,
+          "Kz": 1
         }
-      ]
+      ],
+      "sources": "https://eco.cg.gov.ua/web_docs/2145/2019/02/docs/звіт%2020197314207%20%28grip%29.pdf"
     },
     {
       "id": 1,
-      "name": "р. Дніпро, 897 км, м.Вишгород, н/б Київської ГЕС, питний водозабір м.Києва",
-      "risks": [
+      "name": "Військова частина А0829, м. Лозова",
+      "losses": [
         {
-          "type": "A",
-          "pH": 7.1,
-          "Prob": -3.9,
-          "risk": null
-        },
-        {
-          "type": "B",
-          "F": 20,
-          "C": 17,
-          "Prob": -2.242,
-          "risk": null
-        },
-        {
-          "type": "C",
-          "emission_name": "Фосфати",
-          "OSF": 0.59,
-          "GDK": 2.0,
-          "K3": 100,
-          "CW": 0.19,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
-        },
-        {
-          "type": "C",
-          "emission_name": "Цинк",
-          "OSF": 0.93,
-          "GDK": 0.01,
-          "K3": 10,
-          "CW": 0.005,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
-        },
-        {
-          "type": "C",
-          "emission_name": "Залізо",
-          "OSF": 0.84,
-          "GDK": 0.04,
-          "K3": 10,
-          "CW": 0.21,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
-        },
-        {
-          "type": "D",
-          "X1": 2.7,
-          "X2": 43,
-          "X3": 0.01,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Фосфати",
-          "OSF": 0.59,
-          "GDK": 2.0,
-          "K3": 100,
-          "C": 0.19,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Цинк",
-          "OSF": 0.93,
-          "GDK": 0.01,
-          "K3": 10,
-          "C": 0.005,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Залізо",
-          "OSF": 0.84,
-          "GDK": 0.04,
-          "K3": 10,
-          "C": 0.21,
-          "risk": null
+          "name": "Ртуть",
+
+          "qm": 0.7175,
+          "qnorm": 0.000277,
+          "T": 312,
+
+          "Z": null,
+          "m": null,
+          "P": 20000,
+          "A": null,
+          "GDK": 0.2,
+          "Kt": null,
+          "Knas": 1,
+          "Kf": 1,
+          "Kz": 1
         }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "р. Десна, 3 км, м.Київ, Деснянський питний в/з м.Києва",
-      "risks": [
-        {
-          "type": "A",
-          "pH": 7.2,
-          "Prob": -3.8,
-          "risk": null
-        },
-        {
-          "type": "B",
-          "F": 20,
-          "C": 16,
-          "Prob": -2.306,
-          "risk": null
-        },
-        {
-          "type": "C",
-          "emission_name": "Мідь",
-          "OSF": 0.78,
-          "GDK": 0.003,
-          "K3": 10,
-          "CW": 0.02,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
-        },
-        {
-          "type": "C",
-          "emission_name": "Марганець",
-          "OSF": 0.81,
-          "GDK": 0.01,
-          "K3": 10,
-          "CW": 0.06,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
-        },
-        {
-          "type": "C",
-          "emission_name": "Нафтопродукти",
-          "OSF": 0.73,
-          "GDK": 5.0,
-          "K3": 100,
-          "CW": 0.05,
-          "IR": 2,
-          "EF": 365,
-          "ED": 70,
-          "BW": 70,
-          "AT": 25.550,
-          "Clim": null,
-          "LADD": null,
-          "risk": null
-        },
-        {
-          "type": "D",
-          "X1": 2.2,
-          "X2": 39,
-          "X3": 0.01,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Мідь",
-          "OSF": 0.78,
-          "GDK": 0.003,
-          "K3": 10,
-          "C": 0.02,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Марганець",
-          "OSF": 0.81,
-          "GDK": 0.01,
-          "K3": 10,
-          "C": 0.06,
-          "risk": null
-        },
-        {
-          "type": "E",
-          "emission_name": "Нафтопродукти",
-          "OSF": 0.73,
-          "GDK": 5.0,
-          "K3": 100,
-          "C": 0.05,
-          "risk": null
-        }
-      ]
+      ],
+      "sources": "http://repositsc.nuczu.edu.ua/bitstream/123456789/1627/1/Васюков_75-83.pdf"
     }
   ]
 }
