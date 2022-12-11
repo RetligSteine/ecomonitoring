@@ -1,126 +1,149 @@
 {
-  "objects": [
+  "emergencies": [
     {
       "id": 0,
-      "name": "ТОВ <<ЧЕРНІГІВАГРОШЛЯХБУД>>",
+      "name": "Пожежа по вул. Нижня Гиївська, 150 у м. Харкові",
+      "zbytky": null,
       "losses": [
         {
           "type": 1,
-          "name": "Хром та його сполуки в перерахунку на триоксид хрому",
+          "Nr": null,
 
-          "qm": 0.00000122,
-          "qnorm": 0.006944,
-          "T": 8760,
-
-          "Z": null,
-          "m": null,
-          "P": 17500,
-          "A": null,
-          "GDK": 5,
-          "Kt": null,
-          "Knas": 1.35,
-          "Kf": 1.25,
-          "Kz": 1
+          "Svtrr": null,
+          "MlN": 12,
+          "MtN": 0,
+          "Mi": 0,
+          "MzN": 16,
+          "Svdp": null,
+          "Nz": 16,
+          "Svvth": null,
+          "Vd": null
         },
         {
-          "type": 1,
-          "name": "Вуглецю оксид",
-
-          "qm": 33.287623,
-          "qnorm": 1.388,
-          "T": 8760,
-
-          "Z": null,
-          "m": null,
-          "P": 17500,
-          "A": null,
-          "GDK": 250,
-          "Kt": null,
-          "Knas": 1.35,
-          "Kf": 1.25,
-          "Kz": 1
-        },
-        {
-          "type": 1,
-          "name": "Фенол",
-
-          "qm": 0.02916622,
-          "qnorm": 0.0277,
-          "T": 8760,
-
-          "Z": null,
-          "m": null,
-          "P": 17500,
-          "A": null,
-          "GDK": 20,
-          "Kt": null,
-          "Knas": 1.35,
-          "Kf": 1.25,
-          "Kz": 1
-        },
-        {
-          "type": 1,
-          "name": "Азоту діоксид",
-
-          "qm": 1.49404,
-          "qnorm": 1.388888,
-          "T": 8760,
-
-          "Z": null,
-          "m": null,
-          "P": 17500,
-          "A": null,
-          "GDK": 500,
-          "Kt": null,
-          "Knas": 1.35,
-          "Kf": 1.25,
-          "Kz": 1
-        },
-        {
-          "type": 1,
-          "name": "Речовини у вигляді суспендованих твердих частинок недиференційованих за складом",
-
-          "qm": 2.55835,
-          "qnorm":  0.138888,
-          "T": 8760,
-
-          "Z": null,
-          "m": null,
-          "P": 17500,
-          "A": null,
-          "GDK": 50,
-          "Kt": null,
-          "Knas": 1.35,
-          "Kf": 1.25,
-          "Kz": 1
+          "type": 2,
+          "fv": 0,
+          "fg": 187200,
+          "pr": 0,
+          "prs": 0,
+          "sn": 0,
+          "mdg": 439100
         }
       ],
-      "sources": "https://eco.cg.gov.ua/web_docs/2145/2019/02/docs/звіт%2020197314207%20%28grip%29.pdf"
+      "sources": "https://www.kmu.gov.ua/storage/app/sites/1/17-civik-2018/zvit2021/zvit2021-dns.pdf"
     },
     {
       "id": 1,
-      "name": "Військова частина А0829, м. Лозова",
+      "name": "Пожежа у АТ «Чернівціобленерго»",
+      "zbytky": null,
+      "losses": [
+        {
+          "type": 2,
+          "fv": 9760,
+          "fg": 187200,
+          "pr": 0,
+          "prs": 0,
+          "sn": 0,
+          "mdg": 18720
+        }
+      ],
+      "sources": "https://mepr.gov.ua/news/35308.html"
+    },
+    {
+      "id": 2,
+      "name": "Робота у вугільній галузі",
+      "zbytky": null,
       "losses": [
         {
           "type": 1,
-          "name": "Ртуть",
+          "Nr": null,
 
-          "qm": 0.7175,
-          "qnorm": 0.000277,
-          "T": 312,
-
-          "Z": null,
-          "m": null,
-          "P": 20000,
-          "A": null,
-          "GDK": 0.2,
-          "Kt": null,
-          "Knas": 1,
-          "Kf": 1,
-          "Kz": 1
+          "Svtrr": null,
+          "MlN": 112,
+          "MtN": 0,
+          "Mi": 0,
+          "MzN": 3,
+          "Svdp": null,
+          "Nz": 3,
+          "Svvth": null,
+          "Vd": null
         }
       ],
-      "sources": "http://repositsc.nuczu.edu.ua/bitstream/123456789/1627/1/Васюков_75-83.pdf"
+      "sources": "https://mepr.gov.ua/news/35290.html"
+    },
+    {
+      "id": 3,
+      "name": "Викид та вибух метану, що стався 31 липня 2021 року під час проведення буро-вибухових робіт на горизонті 815 м у північному польовому конвеєрному штреку шахти ПАТ «Шахтоуправління «Покровське» (смт Удачне Покровського району Донецької області)",
+      "zbytky": null,
+      "losses": [
+        {
+          "type": 1,
+          "Nr": null,
+
+          "Svtrr": null,
+          "MlN": 4,
+          "MtN": 0,
+          "Mi": 0,
+          "MzN": 6,
+          "Svdp": null,
+          "Nz": 6,
+          "Svvth": null,
+          "Vd": null
+        },
+        {
+          "type": 2,
+          "fv": 44300,
+          "fg": 0,
+          "pr": 0,
+          "prs": 0,
+          "sn": 51000,
+          "mdg": 127240
+        }
+      ],
+      "sources": "https://www.kmu.gov.ua/storage/app/sites/1/17-civik-2018/zvit2021/zvit2021-dns.pdf"
+    },
+    {
+      "id": 4,
+      "name": "Лісова пожежа, що виникла 6 липня 2020 року на території Борівського та Охтирського лісництв у Новоайдарському районі Луганської області",
+      "zbytky": null,
+      "losses": [
+        {
+          "type": 2,
+          "fv": 0,
+          "fg": 2394450,
+          "pr": 0,
+          "prs": 0,
+          "sn": 0,
+          "mdg": 4591900
+        },
+        {
+          "type": 6,
+          "rlg": null,
+
+          "rlg1": null,
+          "n": 118.6,
+          "k": 1,
+          "p": 5000,
+          "rlg2": -1,
+          "rlg3": -1
+          }
+      ],
+      "sources": "https://www.kmu.gov.ua/storage/app/sites/1/17-civik-2018/zvit2020/zvit-2020-dsns.pdf"
+    },
+    {
+      "id": 5,
+      "name": "Масове засихання та загибель посівів унаслідок засухи на території Одеської області",
+      "zbytky": null,
+      "losses": [
+        {
+          "type": 4,
+          "rsg": null,
+          "rsg1": null,
+          "n":  459700,
+          "p": 298662.54,
+          "rsg2": -1
+        }
+      ],
+      "sources": "https://www.kmu.gov.ua/storage/app/sites/1/17-civik-2018/zvit2020/zvit-2020-dsns.pdf"
     }
   ]
 }
